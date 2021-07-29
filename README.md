@@ -17,4 +17,4 @@
 </p>
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recept27&layout=compact)](https://github.com/recept27/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recept27&layout=compact)]
