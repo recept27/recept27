@@ -15,10 +15,5 @@
 <p>
    I'm a software engineer who is passionate about making products and building startups. I'm currently working at <a href="https://www.gojek.io/">@Gojek</a>. I am a founder and organisation admin at <a href="https://github.com/TheAlgorithms">@TheAlgorithms</a>. In my free time I play chess and create music. 
 </p>
-<table width="100%">
-  <tr>
-  
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamitechetan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
-  </tr>
- <table>
+
   
