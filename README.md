@@ -1,11 +1,11 @@
 # Hi, I'm Recep 👋
-<a target="_blank" href="mailto:dynamitechetan@gmail.com" target="_blank">
+<a target="_blank" href="mailto:receptas.media@gmail.com" target="_blank">
 <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/chetankaushik/" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/tas-recep/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://twitter.com/dynamitechetan" target="_blank">
+<a target="_blank" href="https://twitter.com/1Receptas" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/@dynamitechetan-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a target="_blank" href="https://medium.com/@chetanKSHK" target="_blank">
