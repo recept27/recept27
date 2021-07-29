@@ -1,4 +1,4 @@
-# Hi, I'm Recep 👋
+# <center> Hi, I'm Recep 👋 </center>
 <a target="_blank" href="mailto:receptas.media@gmail.com" target="_blank">
 <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
 </a>
