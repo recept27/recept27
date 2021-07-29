@@ -11,7 +11,7 @@
 <a target="_blank" href="https://birgad.com/" target="_blank">
 <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
 </a>
-<img src="https://i.imgur.com/" alt="banner that says Chetan - software engineer, software engineer and music composer alongside a cartoon illustration of Chetan">
+
 <p>
    I'm a software engineer who is passionate about making products and building startups. I'm currently working at <a href="https://www.gojek.io/">@Gojek</a>. I am a founder and organisation admin at <a href="https://github.com/TheAlgorithms">@TheAlgorithms</a>. In my free time I play chess and create music. 
 </p>
