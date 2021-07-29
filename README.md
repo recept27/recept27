@@ -18,10 +18,10 @@
 
   <table width="100%">
   <tr>
-    <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recept27&layout=compact)](https://github.com/recept27/recept27) </td>
- <td> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=recept27&show_icons=true)
- </td>
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recept27&layout=compact)](https://github.com/recept27/recept27)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=recept27&show_icons=true)
+ 
   </tr>
  <table>
   
