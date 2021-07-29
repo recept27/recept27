@@ -1,4 +1,4 @@
-# Hi, I'm Chetan 👋
+# Hi, I'm Recep 👋
 <a target="_blank" href="mailto:dynamitechetan@gmail.com" target="_blank">
 <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
 </a>
