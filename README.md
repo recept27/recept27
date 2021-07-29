@@ -18,7 +18,7 @@
 <table width="100%">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dynamitechetan&show_icons=true&hide_border=true" /> </td>
+ </td>
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamitechetan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
   </tr>
  <table>
