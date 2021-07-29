@@ -6,7 +6,7 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://twitter.com/1Receptas" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/@dynamitechetan-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<img alt="Twitter" src="https://img.shields.io/badge/@1Receptas-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a target="_blank" href="https://medium.com/@chetanKSHK" target="_blank">
 <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
