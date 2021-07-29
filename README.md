@@ -13,7 +13,7 @@
 </a>
 
 <p>
-   I'm a software engineer who is passionate about making products and building startups. I'm currently working at <a href="https://www.gojek.io/">@Gojek</a>. I am a founder and organisation admin at <a href="https://github.com/TheAlgorithms">@TheAlgorithms</a>. In my free time I play chess and create music. 
+   I am a software developer passionate about product development, startup and team building. In my spare time I play checkers and ride a bike. 
 </p>
 
   
